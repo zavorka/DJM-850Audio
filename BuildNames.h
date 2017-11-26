@@ -1,0 +1,19 @@
+#ifndef BUILDNAMES_H
+#define BUILDNAMES_H
+
+#define AppleUSBAudioDevice		com_native_instruments_driver_10_5_USBAudioDevice
+#define AppleUSBAudioEngine		com_native_instruments_driver_10_5_USBAudioEngine
+#define AppleUSBAudioPlugin		com_native_instruments_driver_10_5_USBAudioPlugin
+#define AppleUSBAudioClip		com_native_instruments_driver_10_5_USBAudioClip
+#define AppleUSBAudioStream		com_native_instruments_driver_10_5_USBAudioStream
+#define AppleUSBAudioStreamNode		com_native_instruments_driver_10_5_USBAudioStreamNode
+#define AppleUSBAudioDictionary		com_native_instruments_driver_10_5_USBAudioDictionary
+
+#define AUAConfigurationDictionary	com_native_instruments_driver_AUAConfigurationDictionary
+#define AUAControlDictionary		com_native_instruments_driver_AUAControlDictionary
+#define AUAStreamDictionary		com_native_instruments_driver_AUAStreamDictionary
+#define AUAEndpointDictionary		com_native_instruments_driver_AUAEndpointDictionary
+#define AUAUnitDictionary		com_native_instruments_driver_AUAUnitDictionary
+
+#endif /* BUILDNAMES_H */
+
